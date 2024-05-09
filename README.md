@@ -1,1 +1,1 @@
-#VR Practical assignment #4 (Orientation in space using sensor fusion)
+# VR Practical assignment #4 (Orientation in space using sensor fusion)
